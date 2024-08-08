@@ -5,8 +5,8 @@ html,body{
 }
 
 img{
-    width: 120px;
-    height: 160px;
-    box-shadow: 5px 5px 10px #000;
+    width: 180px;
+    height: 180px;
+    box-shadow: 8px 8px 18px #000;
     filter: drop-shadow(5px 5px 10px #000);
 }
